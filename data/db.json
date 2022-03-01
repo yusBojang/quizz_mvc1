@@ -1,0 +1,23 @@
+ {
+     "users":[
+                {
+                    "nom":"bojang",
+                    "prenom":"yusupha",
+                    "login":"admin@gmail.com",
+                    "password":"admin",
+                    "role":"ROLE_ADMIN",
+                    "score":0
+                },
+
+                {
+                    "nom":"sow",
+                    "prenom":"rawane",
+                    "login":"joueur@gmail.com",
+                    "password":"joueur",
+                    "role":"ROLE_JOUEUR",
+                    "score":15
+                }
+                
+     ]
+      
+ }
