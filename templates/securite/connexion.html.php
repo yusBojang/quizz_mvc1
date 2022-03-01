@@ -10,7 +10,7 @@
   <body>
     <div class="center">
       <h1>Login</h1>
-      <form action="#"  method="GET" >
+      <form action="#"  method="GT" >
       <input type="hidden" name="controller" value="securite">
       <input type="hidden" name="action" value="connexion">
 
@@ -27,6 +27,7 @@
         <input type="submit" id="submit" value="Login">
         <div class="signup_link">
           Not a member? <a href="#">Signup</a>
+          
         </div>
       </form>
     </div>
