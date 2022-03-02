@@ -11,7 +11,7 @@
 <div class="topnav">
   <a class="active" href="#">Inscription</a>
   <a href="#">connexion</a>
-  <a href="#">utilisateur</a>
+  <a href="#">Deconnexionr</a>
   
 </div>
 
